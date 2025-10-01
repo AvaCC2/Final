@@ -1,0 +1,40 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+} 
+
+main  {
+  padding: 5px;
+  background-color: #879A77;
+} 
+
+footer  {
+  clear: both;
+  text-align: center;
+} 
+
+header  {
+  background-color: #D7E5F0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem 1rem;
+} 
+
+header h1  {
+  font-size: 2rem;
+  text-align: center;
+} 
+nav ul  {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  
+} 
+
+nav a  {
+  padding: 1rem 3rem;
+  display: block;
+  color: black;
+  text-decoration: none;
+} 

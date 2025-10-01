@@ -8,10 +8,12 @@
 </head>
 
 <body>
-  <header>
   <div class="wrapper">
     <main>
-<h1>The Formidable Bigfoot </h1>
+
+    <header>
+<h1>Proof of Existence</h1>
+</header>
 
 <nav>
   <ul>
@@ -22,21 +24,3 @@
     
   </ul>
 </nav>
-</main>
-
-<p>Bigfoot, also known as Sasquatch, is one of the most mysterious creatures in North American folklore. Described as a large, hairy, human-like creature, Bigfoot has fascinated people for generations.</p>
-
-
-
-
-
-
-
-
-
-<footer>
-  <em>The Secret History of Bigfoot</em> written by John O'Connor was a big inspiration for this website.
-</footer>
-</div>
-</body>
-</html>
