@@ -1,0 +1,160 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(images/wallpaper.jpeg);
+}
+
+.wrapper {
+  background-color: #c9dae6;
+  max-width: 1000px;
+  margin: 0 auto;
+  border: 5px solid #7f9082;
+  box-shadow: 2px 2px 15px;
+}
+
+header {
+  /* height: 5em; */
+  /* background-color: #D7E5F0; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+
+header h1 {
+  font-size: 2rem;
+  text-align: center;
+  text-shadow: 1px 1px;
+  max-width: 15rem;
+}
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  /* padding: 20px; */
+  background-color: #7f9082;
+  /* word-spacing: 3px; */
+  font-size: 120%;
+  line-height: 1.3;
+  margin-left: 20px;
+  margin-right: 20px;
+  clear: right;
+  padding: 1rem 2rem;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  /* padding: 10px; */
+  padding: 1rem;
+}
+
+
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+nav a {
+  padding: 1rem 2.5rem;
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: ghostwhite;
+  border-radius: 2rem;
+}
+
+
+
+/* .center-header {
+  font-size: 25px;
+} */
+
+.bigfoot-types {
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr; */
+  /* display: flex;
+  justify-content: flex-end; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  /* background-color: white; */
+}
+
+.bigfoot-types figure {
+  background-color: #c9dae6;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.bigfoot-types h3 {
+  font-size: 1.5rem;
+  /* text-align: center; */
+  margin-bottom: .5rem;
+}
+
+.bigfoot-types figcaption {
+  /* font-size: 80%; */
+}
+
+.bigfoot-types img {
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+.walking {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.movie-images {
+  /* height: 200px;
+  width: 200px; */
+  /* display: flex; */
+  /* padding: 0 1.5em 1.5em 1.5em */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: .5rem;
+}
+
+.museum-caption {
+  font-size: 12px;
+}
+
+
+.column {
+  padding: .5em .5em;
+}
+
+h2 {
+  /* padding-bottom: 1rem; */
+  border-bottom: 1px solid #404a42;
+  color: #404a42;
+  font-size: 125%;
+  margin-bottom: .25rem;
+}
+
+h3 {}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-right {
+  float: right;
+  margin: 0 0 1rem 2rem;
+  border: 3px solid white;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 5px black;
+}
