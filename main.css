@@ -118,12 +118,16 @@ nav a:hover {
   gap: .5rem;
 }
 
+.movie-image-size {
+  height: 200px;
+  width: 200px;
+}
+
 .museum-caption {
   font-size: 10px;
   display: grid;
   align-items: center;
   justify-content: center;
- 
 }
 
 
@@ -141,6 +145,7 @@ h2 {
 
 h4 {
 border-bottom: 1px solid ;
+
 }
 
 
