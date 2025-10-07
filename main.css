@@ -18,6 +18,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
+
 }
 
 
@@ -25,7 +26,7 @@ header h1 {
   font-size: 2rem;
   text-align: center;
   text-shadow: 1px 1px;
-  max-width: 15rem;
+  max-width: 50rem;
 }
 
 main {
@@ -113,6 +114,15 @@ h3 {
   width: 40%;
 }
 
+.faq-layout {
+  
+}
+
+.faq-grid {
+
+ 
+}
+
 .movie-images {
   /* height: 200px;
   width: 200px; */
@@ -126,6 +136,7 @@ h3 {
 .movie-image-size {
   height: 200px;
   width: 200px;
+  margin-bottom: .7em;
 }
 
 .museum-caption {
@@ -149,8 +160,9 @@ h2 {
 }
 
 h4 {
-border-bottom: 1px solid ;
+border-bottom: 1px soli ;
 font-size: 105%;
+
 }
 
 
