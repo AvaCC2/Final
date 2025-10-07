@@ -48,7 +48,6 @@ nav ul {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-
 }
 
 nav a {
@@ -78,6 +77,12 @@ nav a:hover {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 1rem;
   /* background-color: white; */
+}
+
+h3 {
+  color: #252628;
+  display: flex;
+  justify-content: center;
 }
 
 .bigfoot-types figure {
@@ -145,7 +150,7 @@ h2 {
 
 h4 {
 border-bottom: 1px solid ;
-
+font-size: 105%;
 }
 
 
@@ -163,6 +168,7 @@ img {
   border-radius: 1rem;
   box-shadow: 2px 2px 5px black;
 }
+
 
 footer {
   clear: both;
