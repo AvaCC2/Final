@@ -63,6 +63,10 @@ nav a:hover {
   border-radius: 2rem;
 }
 
+.cryptid-link {
+ font-weight: 700;
+ color: #2f5938;
+}
 
 
 /* .center-header {
