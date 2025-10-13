@@ -34,7 +34,7 @@ main {
   /* padding: 20px; */
   background-color: #7f9082;
   /* word-spacing: 3px; */
-  font-size: 120%;
+  font-size: 16px;
   line-height: 1.3;
   margin-left: 20px;
   margin-right: 20px;
@@ -64,9 +64,9 @@ nav a:hover {
   border-radius: 2rem;
 }
 
-.cryptid-link {
+.website-link {
  font-weight: 700;
- color: #2f5938;
+ color: #29452f;
 }
 
 
@@ -127,14 +127,6 @@ h3 {
   width: 40%;
 }
 
-.faq-layout {
-  
-}
-
-.faq-grid {
-
- 
-}
 
 .movie-images {
   /* height: 200px;
@@ -194,4 +186,13 @@ footer {
   text-align: center;
   /* padding: 10px; */
   padding: 1rem;
+  font-size: 10px;
+  font-style: italic;
+  color: #213224;
 }
+
+.image-size {
+  height: 170px;
+}
+
+
