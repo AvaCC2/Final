@@ -175,9 +175,9 @@ img {
 .quiz-question-grid ol {
   display: flex;
   gap: 10px;
-  margin: 2 2 2 2;
-  border-radius: ;
+  margin: 2px 2px 2px 2px;
   background-color: rgb(83, 114, 83);
+  border-radius: 3px;
 }
 
 .results-grid {
