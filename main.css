@@ -93,6 +93,10 @@ h2 {
   margin-bottom: .25rem;
 }
 
+.header-margin {
+  margin-bottom: .8em;
+}
+
 h3 {
   color: #252628;
   display: flex;
@@ -128,21 +132,6 @@ h3 {
 }
 
 
-.movie-images {
-  /* height: 200px;
-  width: 200px; */
-  /* display: flex; */
-  /* padding: 0 1.5em 1.5em 1.5em */
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  gap: .5rem;
-}
-
-.movie-image-size {
-  height: 200px;
-  width: 200px;
-  margin-bottom: .7em;
-}
 
 .museum-caption {
   font-size: 10px;
@@ -156,12 +145,14 @@ h3 {
   padding: .5em .5em;
 }
 
-
+audio {
+  padding: .5em .5em;
+  display: grid;
+}
 
 h4 {
 border-bottom: 1px solid ;
 font-size: 105%;
-
 }
 
 
