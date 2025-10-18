@@ -1,13 +1,3 @@
-@media (max-width: 768px) {
-  .nav {
-  flex-direction: column;
-}
-}
-
-.hero-text {
-  font-size: 1.2rem;
-}
-
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-image: url(images/wallpaper.jpeg);
